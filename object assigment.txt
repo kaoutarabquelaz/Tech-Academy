@@ -1,0 +1,29 @@
+CLASS: CAT
+Potential properties: Fur Color, Height, Weight
+
+Potential behaviors: Eating, Meowing, Purring, Sitting, Laying down, Clawing
+
+Potential states: Alive, Deceased, Awake, Sleeping
+
+
+		OBJECT 1: Siamese Cat
+		Properties: Seal point fur (dark brown on the ears, face, paws, and tail), 10” tall, 8 pounds
+
+		Behavior: Laying down
+
+		States: Alive, Sleeping
+
+
+		OBJECT 2: Maine Coon
+		Properties: Brown tabby fur, 16” tall, 18 pounds
+
+		Behaviors: Meowing, Purring
+
+		States: Alive, Awake
+
+		OBJECT 3: Persian Cat
+		Properties: Gray fur, 10” tall, 12 pounds
+
+		Behavior: Laying down
+
+		State: Deceased
